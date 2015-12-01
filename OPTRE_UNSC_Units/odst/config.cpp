@@ -809,6 +809,8 @@ class cfgWeapons
 			hiddenSelections[]   																= {"camo1","camo2","attach_cam","attach_communication","attach_flashlight","attach_laser","attach_mount","attach_rangefinder","attach_rebreather"};
 			hiddenSelectionsTextures[]   														= {"OPTRE_UNSC_Units\ODST\data\helmet_co.paa","OPTRE_UNSC_Units\ODST\data\helmet_co.paa"};
 		};
+		optreVarietys[]   																	= {"_dp","","_broken"};
+		optreHUDStyle   																	= "ODST_1";
 	};
 	class OPTRE_UNSC_ODST_Helmet: OPTRE_UNSC_ODST_Helmet_Base
 	{	
